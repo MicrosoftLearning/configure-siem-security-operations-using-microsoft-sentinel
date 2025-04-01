@@ -1,6 +1,6 @@
 # Configure SIEM security operations using Microsoft Sentinel
 
-- **[Link to labs (HTML format)]( https://microsoftlearning.github.io/APL-5001-configure-siem-security-operations-using-microsoft-sentinel/)**
+- **[Link to labs (HTML format)]( https://microsoftlearning.github.io/configure-siem-security-operations-using-microsoft-sentinel/)**
 
 - **Are you an MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 
