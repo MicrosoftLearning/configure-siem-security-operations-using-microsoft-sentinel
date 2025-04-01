@@ -1,4 +1,4 @@
-# APL-5001: Configure SIEM security operations using Microsoft Sentinel
+# Configure SIEM security operations using Microsoft Sentinel
 
 - **[Link to labs (HTML format)]( https://microsoftlearning.github.io/APL-5001-configure-siem-security-operations-using-microsoft-sentinel/)**
 
